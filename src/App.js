@@ -4,7 +4,7 @@ import Contact from './Routing/Contact'
 import Student from './Routing/Student'
 import Header from './Routing/Header'
 // import './style.css'
-import { BrowserRouter as Router, Routes,Route, Navigate, link } from  'react-router-dom'
+import { BrowserRouter as Router, Routes,Route, Navigate } from  'react-router-dom'
 import Addstudent from './Routing/Addstudent'
 
 const App = () => {
