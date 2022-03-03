@@ -1,0 +1,175 @@
+.card-title{
+    font-family: cursive;
+    text-align: center;
+    font-size: 3em;
+   
+}
+
+body{
+    background-image: linear-gradient(90deg,rgb(240, 81, 240),rgb(247, 10, 247)); 
+}
+.nav{
+    background-color: rgb(71, 71, 240);
+    
+}
+.head{
+    padding : 20px;
+    font-family: cursive;
+    color: black;
+    font-size: 2em;
+  padding-left: 7em;
+  margin-left: 10px;
+  text-decoration: none 
+}
+.head:hover{
+    color: rgb(190, 16, 16);
+}
+
+
+  .studentfour{
+  
+    width: 100%;
+    height:60vh;
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  
+    position: relative;
+    top: 2rem;
+   
+  }
+  
+  .five{
+  
+    width:60%;
+    height:15vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+    border-radius: 10px;
+    font-family: cursive; 
+    font-size: 1em;
+   margin:auto;
+  }
+  
+  .six{
+    border: 2px solid black;
+    border-radius: 10px; 
+    font-family: cursive; 
+    font-size: 1em;
+  }
+  .seven{
+  
+    width:60%;
+    height:15vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: cursive; 
+    font-size: 1em;
+  
+  
+    margin:auto;
+  }
+  
+  .btnfull{
+  
+    display: flex;
+    width:13%;
+    height:15vh;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    right:200px;
+   
+    
+  }
+  .btn2{
+    text-decoration: none;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: red;
+    color: black;
+
+  }
+  .btn3{
+    text-decoration: none;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: red;
+    color: black;
+
+  }
+  
+  
+  
+  
+  
+  .studentthree{
+  
+    width:100%;
+    height:100vh;
+ 
+    text-align: center;
+    
+  
+  }
+  
+  .home-wrap{
+    width:auto;
+    height:auto;
+    
+    text-align: center;
+  
+  }
+ 
+  .studentone{
+    width:100%;
+    height:100vh;
+    
+  
+  
+  }
+ 
+  
+  .studenttwo{
+    width:auto;
+    height:auto;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+ 
+  }
+  
+  .bold{
+    font-size: 20px;
+    font-family: cursive;
+  }
+  
+  .btn1{
+      text-decoration: none;
+      height: auto;
+      width: auto;
+      border-radius: 10px;
+      border: 2px solid black;
+      background-color: red;
+      color: black;
+  }
+  .btn1:hover{
+      color: purple;
+  }
+.tabel{
+    width:auto;
+    margin-top: 50px;
+    position:relative;
+    height:auto;
+}
