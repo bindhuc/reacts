@@ -10,11 +10,11 @@ const Student=()=>{
 
 
     const data=[
-        {Name:"abc",Age: "20", Course: "MERN" ,Batch:"October",Change : <Link to="/Addstudent">Edit</Link> },
-        {Name:"Def",Age: "21", Course: "MERN" ,Batch:"November",Change : <Link to="/Addstudent" >Edit</Link>},
-        {Name:"ghi",Age: "22", Course: "MERN" ,Batch:"December",Change : <Link to="/Addstudent" >Edit</Link>},
-        {Name:"jkl",Age: "23", Course: "MERN" ,Batch:"January",Change : <Link to="/Addstudent" >Edit</Link>},
-        {Name:"mno",Age: "24", Course: "MERN" ,Batch:"February",Change : <Link to="/Addstudent" >Edit</Link>}
+        {Name:"abc",Age: "20", Course: "js" ,Batch:"October",Change : <Link to="/Addstudent">Edit</Link> },
+        {Name:"Def",Age: "21", Course: "node" ,Batch:"November",Change : <Link to="/Addstudent" >Edit</Link>},
+        {Name:"ghi",Age: "22", Course: "react" ,Batch:"December",Change : <Link to="/Addstudent" >Edit</Link>},
+        {Name:"jkl",Age: "23", Course: "react" ,Batch:"January",Change : <Link to="/Addstudent" >Edit</Link>},
+        {Name:"mno",Age: "24", Course: "js" ,Batch:"February",Change : <Link to="/Addstudent" >Edit</Link>}
          ]
 
         const columns=[
