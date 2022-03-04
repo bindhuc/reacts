@@ -121,13 +121,9 @@ body{
     
   
   }
-  
-  .home-wrap{
-    width:auto;
-    height:auto;
-    
-    text-align: center;
-  
+  .links{
+    text-decoration: none;
+    color:black;
   }
  
   .studentone{
